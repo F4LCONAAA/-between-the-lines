@@ -52,7 +52,7 @@ The International Dyslexia Association's 2025 definition describes difficulties 
 ## 4. User-feedback-driven changes
 
 - **Previous interaction:** A basic one-question portal-finding task was evaluated informally by the project creator, who found it too easy.
-- **Recorded teacher feedback:** Kadian said the prototype looked good but the challenges were too simple. She recommended stronger challenges, competitor exploration and testing with dyslexic and nondyslexic participants (Portflow Checkpoint 7).
+- **Recorded teacher feedback:** Kadian said the prototype looked good but the challenges were too simple. She recommended stronger challenges, competitor exploration and testing with dyslexic and nondyslexic participants (FeedPulse Checkpoint 7, 3 November 2026; student-recorded summary).
 - **Current revision:** Three different scenarios, each with two related facts to extract; a retryable answer-checking step; short optional hints; purposeful debriefing; direct interactive comparison; accessible exit and time controls.
 - **Still needed for validation:** Real participant sessions, ideally including someone with dyslexia, and feedback on realism, respectfulness, difficulty and practical learning. Do not infer success without that evidence.
 
@@ -69,3 +69,4 @@ The International Dyslexia Association's 2025 definition describes difficulties 
 9. W3C WAI. [Before and After Demonstration](https://www.w3.org/WAI/demos/bad/).
 10. Funkify. [Accessibility simulation tools](https://www.funkify.se/).
 11. British Dyslexia Association. [Official website and resources](https://www.bdadyslexia.org.uk/).
+

@@ -30,3 +30,16 @@ The following are *technical/browser checks*, **not** a formal accessibility cer
 ## Recommended manual check before sharing
 
 Open the live URL in Chrome and a mobile browser. Complete or skip all tasks, use the design-lab shortcut, check source links, download a feedback report with consent, and verify keyboard navigation and readable zoom.
+
+## Hosted verification on 8 November 2026
+
+The public deployment was checked in Brave at https://f4lconaaa.github.io/-between-the-lines/ after enabling GitHub Pages from main / root.
+
+- All three challenges accepted their two correct answers and revealed reflection and continuation.
+- The final review showed 3/3 correct tasks. No frustration or understanding ratings were invented for this check.
+- Pausing the optional countdown displayed Resume and a paused explanation. Disabling it displayed OFF. Extension was activated, but its exact increment was not independently measured in this hosted walkthrough.
+- Accessible view displayed grouped facts and clear headings. Larger text and more spacing visibly changed the sample.
+- Feedback download remained disabled without consent. Actual downloaded report contents, clipboard output and speech voices were not reverified in this hosted walkthrough.
+- Inline JavaScript syntax was also checked with Node successfully.
+
+These are assistant-assisted technical checks, not participant research, a full keyboard/screen-reader audit, accessibility certification or evidence that empathy improved. The earlier QA record above is retained as an earlier record; its mobile checks were not newly repeated during this hosted walkthrough.

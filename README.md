@@ -6,6 +6,9 @@ An interactive learning experience about reading effort and avoidable digital-ac
 
 ## Open the website
 
+Live website: https://f4lconaaa.github.io/-between-the-lines/
+Repository: https://github.com/F4LCONAAA/-between-the-lines
+
 Open `index.html` in a modern browser. No build step, database, account, external fonts, scripts or packages are required. To publish on GitHub Pages, put `index.html` in the repository root and enable **Settings → Pages → Deploy from a branch → main → / (root)**.
 
 ## The experience
@@ -36,3 +39,4 @@ This is **not a dyslexia simulator** and cannot reproduce someone's lived neurol
 The current version builds on an earlier one-question information-finding prototype. Informal creator feedback and recorded teacher feedback (Kadian, Portflow Checkpoint 7) identified that the tasks were too easy. The revised website introduces three challenge types and then two required answers per challenge. This is documented iteration, not a claim of formal usability testing.
 
 See `ResearchAndDecisions.md` for the desk-research rationale and `ClientDemoGuide.md` for a short demonstration path. The code is a single self-contained HTML file with CSS and JavaScript. All additional repository commits should describe genuine later changes.
+
